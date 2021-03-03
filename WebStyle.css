@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+    margin: 20px auto;
+    display: flex;
+}
+.item{
+    width: 35%;
+    height: 400px;
+    text-align: center;
+}
